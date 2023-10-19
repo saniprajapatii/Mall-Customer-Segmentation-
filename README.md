@@ -1,0 +1,1 @@
+This project utilizes the K-means clustering algorithm to segment mall customers based on their purchasing behavior. By identifying distinct customer segments, businesses can tailor their marketing strategies and enhance customer satisfaction.

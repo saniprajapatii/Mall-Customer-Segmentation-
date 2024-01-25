@@ -14,15 +14,15 @@ Malls or shopping complexes are often indulged in the race to increase their cus
 * 5.Spending Score: It is the score(out of 100) given to a customer by the mall authorities, based on the money spent and the behavior of the customer.
 
 # How this model can be improved ?
-1.Incorporating more data sources
-2.Utilizing advanced machine learning algorithms
-3.Advanced feature engineering
-4.Dynamic and real-time segmentation
-5.Incorporating external data and context
-6.Personalization and recommendation systems
-7.Evaluation and monitoring
-8.Ethical considerations
-9.Customer Feedback Analysis
+* 1.Incorporating more data sources
+* 2.Utilizing advanced machine learning algorithms
+* 3.Advanced feature engineering
+* 4.Dynamic and real-time segmentation
+* 5.Incorporating external data and context
+* 6.Personalization and recommendation systems
+* 7.Evaluation and monitoring
+* 8.Ethical considerations
+* 9.Customer Feedback Analysis
 
 # CONCLUSION:
 The mall customer segmentation model in machine learning serves as a powerful tool for businesses to gain a competitive advantage in the retail industry. It allows businesses to better understand and connect with their customers, optimize operational processes, and drive sustainable growth. By categorizing customers into distinct segments based on their behaviors, preferences, and characteristics, businesses can tailor their marketing strategies, improve customer experiences, and enhance overall operational efficiency. With the continuous advancement of machine learning techniques, the customer segmentation model will continue to evolve, providing even more accurate and actionable insights for businesses in the future.
